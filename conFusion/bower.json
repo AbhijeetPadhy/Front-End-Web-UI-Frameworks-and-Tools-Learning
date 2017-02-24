@@ -1,0 +1,20 @@
+{
+  "name": "conFusion",
+  "authors": [
+    "Abhijeet Padhy <abhijeet.padhy@gmail.com>"
+  ],
+  "description": "Bootstrap project",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
